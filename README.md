@@ -1,3 +1,7 @@
+The 2 projects here, the tower defense game and the tank game were made with the help of the GFX Framework presented down below.
+To run any of the 2 games, in the main.cpp you have to change
+World* world = new m1::<game_name>(); 
+with either game name, TD or Tanks.
 # GFX Framework
 
 ## :sparkles: Introduction
